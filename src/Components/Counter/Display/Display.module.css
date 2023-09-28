@@ -1,0 +1,19 @@
+.display {
+    border: 5px black solid;
+    border-radius: 20px;
+    width: 400px;
+    height: 140px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.countSpan {
+    font-size: 40px;
+}
+
+.redMode {
+    font-size: 40px;
+    color: red;
+}

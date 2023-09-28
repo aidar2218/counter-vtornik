@@ -1,0 +1,22 @@
+.main {
+    border: 5px black solid;
+    border-radius: 20px;
+    width: 450px;
+    height: 350px;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.windowForButtons {
+    border: 5px black solid;
+    border-radius: 20px;
+    width: 400px;
+    height: 80px;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

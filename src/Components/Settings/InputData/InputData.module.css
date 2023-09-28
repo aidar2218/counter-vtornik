@@ -1,0 +1,22 @@
+.window {
+    border: 5px black solid;
+    border-radius: 20px;
+    width: 400px;
+    height: 140px;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.maxValueDiv {
+    display: flex;
+    justify-content: space-around;
+    margin: 5px;
+}
+
+.startValueDiv {
+    display: flex;
+    justify-content: space-around;
+    margin: 5px;
+}
